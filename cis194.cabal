@@ -6,6 +6,21 @@ cabal-version: >= 1.18
 build-type: Simple
 
 executable cis194
-    build-depends: base < 5
     main-is: Main.hs
+    build-depends: base < 5
+    hs-source-dirs: src 
+    other-modules: Buffer,
+                    Parser,
+                    Scrabble,
+                    StackVM,
+                    Sized,
+                    StringBuffer,
+                    Week1,
+                    Week2,
+                    Week3,
+                    Week4,
+                    Week5,
+                    Week6,
+                    Week7
+                    
     default-language: Haskell2010
