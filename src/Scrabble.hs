@@ -63,6 +63,9 @@ rules ch =
 newtype Score = Score Int
   deriving (Eq, Ord, Show, Num)
 
+scoreInt :: Score -> Int
+scoreInt (Score i) = i
+
 instance Semigroup Score where
   (<>) = (+)
 

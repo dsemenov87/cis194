@@ -7,7 +7,7 @@ build-type: Simple
 
 executable cis194
     main-is: Main.hs
-    build-depends: base < 5
+    build-depends: base < 5, containers == 0.6.0.*
     hs-source-dirs: src 
     other-modules: Buffer,
                     Parser,
@@ -15,12 +15,14 @@ executable cis194
                     StackVM,
                     Sized,
                     StringBuffer,
+                    Employee,
                     Week1,
                     Week2,
                     Week3,
                     Week4,
                     Week5,
                     Week6,
-                    Week7
+                    Week7,
+                    Week8
                     
     default-language: Haskell2010

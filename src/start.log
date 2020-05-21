@@ -1,0 +1,146 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.027  000.027: --- NVIM STARTING ---
+001.130  001.103: locale set
+002.318  001.188: inits 1
+002.376  000.058: window checked
+002.606  000.230: parsing arguments
+002.803  000.197: expanding arguments
+003.014  000.211: inits 2
+006.385  003.371: init highlight
+012.473  006.088: waiting for UI
+015.271  002.798: done waiting for UI
+015.312  000.041: initialized screen early for UI
+015.539  000.046  000.046: sourcing /usr/share/nvim/archlinux.vim
+015.560  000.156  000.110: sourcing /etc/xdg/nvim/sysinit.vim
+022.155  006.388  006.388: sourcing /home/dsemenov/.local/share/nvim/site/autoload/plug.vim
+060.722  000.083  000.083: sourcing /home/dsemenov/.config/nvim/plugged/haskell-vim/ftdetect/haskell.vim
+078.813  017.903  017.903: sourcing /home/dsemenov/.config/nvim/plugged/vim-polyglot/ftdetect/polyglot.vim
+079.150  000.046  000.046: sourcing /home/dsemenov/.config/nvim/plugged/omnisharp-vim/ftdetect/cake.vim
+079.258  000.047  000.047: sourcing /home/dsemenov/.config/nvim/plugged/omnisharp-vim/ftdetect/csx.vim
+079.467  000.060  000.060: sourcing /home/dsemenov/.config/nvim/plugged/vim-fsharp/ftdetect/fsharp.vim
+080.101  000.046  000.046: sourcing /usr/share/vim/vimfiles/ftdetect/PKGBUILD.vim
+080.222  000.065  000.065: sourcing /usr/share/vim/vimfiles/ftdetect/dockerfile.vim
+080.395  043.575  025.326: sourcing /usr/share/nvim/runtime/filetype.vim
+081.126  000.168  000.168: sourcing /usr/share/nvim/runtime/ftplugin.vim
+081.878  000.120  000.120: sourcing /usr/share/nvim/runtime/indent.vim
+084.123  000.956  000.956: sourcing /usr/share/nvim/runtime/syntax/syncolor.vim
+084.546  001.901  000.946: sourcing /usr/share/nvim/runtime/syntax/synload.vim
+084.636  002.454  000.553: sourcing /usr/share/nvim/runtime/syntax/syntax.vim
+087.366  001.078  001.078: sourcing /usr/share/nvim/runtime/syntax/nosyntax.vim
+088.838  000.488  000.488: sourcing /usr/share/nvim/runtime/syntax/syncolor.vim
+089.266  001.455  000.968: sourcing /usr/share/nvim/runtime/syntax/synload.vim
+089.350  003.217  000.684: sourcing /usr/share/nvim/runtime/syntax/syntax.vim
+091.308  000.446  000.446: sourcing /usr/share/nvim/runtime/syntax/syncolor.vim
+094.315  000.540  000.540: sourcing /usr/share/nvim/runtime/syntax/syncolor.vim
+096.357  000.581  000.581: sourcing /usr/share/nvim/runtime/syntax/syncolor.vim
+101.908  012.294  010.727: sourcing /home/dsemenov/.config/nvim/plugged/iceberg.vim/colors/iceberg.vim
+102.037  086.388  018.172: sourcing /home/dsemenov/.config/nvim/init.vim
+102.059  000.203: sourcing vimrc file(s)
+104.928  002.178  002.178: sourcing /home/dsemenov/.fzf/plugin/fzf.vim
+108.247  003.036  003.036: sourcing /home/dsemenov/.config/nvim/plugged/fzf.vim/plugin/fzf.vim
+110.325  000.651  000.651: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/autoload/nerdtree.vim
+113.332  001.190  001.190: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/lib/nerdtree/path.vim
+113.639  000.204  000.204: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/lib/nerdtree/menu_controller.vim
+113.860  000.119  000.119: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/lib/nerdtree/menu_item.vim
+114.107  000.153  000.153: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/lib/nerdtree/key_map.vim
+114.804  000.575  000.575: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/lib/nerdtree/bookmark.vim
+115.258  000.336  000.336: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/lib/nerdtree/tree_file_node.vim
+116.066  000.709  000.709: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/lib/nerdtree/tree_dir_node.vim
+116.490  000.288  000.288: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/lib/nerdtree/opener.vim
+116.964  000.379  000.379: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/lib/nerdtree/creator.vim
+117.147  000.078  000.078: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/lib/nerdtree/flag_set.vim
+117.461  000.219  000.219: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/lib/nerdtree/nerdtree.vim
+118.005  000.453  000.453: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/lib/nerdtree/ui.vim
+118.187  000.041  000.041: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/lib/nerdtree/event.vim
+118.341  000.066  000.066: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/lib/nerdtree/notifier.vim
+119.137  000.678  000.678: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/autoload/nerdtree/ui_glue.vim
+123.800  000.138  000.138: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/nerdtree_plugin/exec_menuitem.vim
+124.889  000.301  000.301: sourcing /usr/share/nvim/runtime/autoload/provider/clipboard.vim
+125.300  001.464  001.163: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/nerdtree_plugin/fs_menu.vim
+125.405  000.064  000.064: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/nerdtree_plugin/vcs.vim
+126.188  000.565  000.565: sourcing /home/dsemenov/.config/nvim/plugged/vim-devicons/nerdtree_plugin/webdevicons.vim
+126.692  018.145  009.774: sourcing /home/dsemenov/.config/nvim/plugged/nerdtree/plugin/NERD_tree.vim
+127.072  000.131  000.131: sourcing /home/dsemenov/.config/nvim/plugged/coc.nvim/autoload/coc/rpc.vim
+127.939  000.762  000.762: sourcing /home/dsemenov/.config/nvim/plugged/coc.nvim/autoload/coc/util.vim
+128.920  000.697  000.697: sourcing /home/dsemenov/.config/nvim/plugged/coc.nvim/autoload/coc/client.vim
+136.533  009.722  008.132: sourcing /home/dsemenov/.config/nvim/plugged/coc.nvim/plugin/coc.vim
+145.302  008.574  008.574: sourcing /home/dsemenov/.config/nvim/plugged/nerdcommenter/plugin/NERD_commenter.vim
+146.498  000.525  000.525: sourcing /home/dsemenov/.config/nvim/plugged/vim-gitgutter/autoload/gitgutter/utility.vim
+147.130  000.157  000.157: sourcing /home/dsemenov/.config/nvim/plugged/vim-gitgutter/autoload/gitgutter/highlight.vim
+148.911  003.468  002.787: sourcing /home/dsemenov/.config/nvim/plugged/vim-gitgutter/plugin/gitgutter.vim
+152.179  003.120  003.120: sourcing /home/dsemenov/.config/nvim/plugged/vim-devicons/plugin/webdevicons.vim
+152.709  000.364  000.364: sourcing /home/dsemenov/.config/nvim/plugged/lightline.vim/plugin/lightline.vim
+153.255  000.029  000.029: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/autoloclist.vim
+153.309  000.022  000.022: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/balloons.vim
+153.355  000.017  000.017: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/checker.vim
+153.402  000.017  000.017: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/cursor.vim
+153.451  000.019  000.019: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/highlighting.vim
+153.515  000.020  000.020: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/loclist.vim
+153.563  000.016  000.016: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/modemap.vim
+153.614  000.021  000.021: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/notifiers.vim
+153.661  000.017  000.017: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/registry.vim
+153.704  000.016  000.016: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/signs.vim
+154.593  000.575  000.575: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/autoload/syntastic/util.vim
+234.836  000.089  000.089: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/autoloclist.vim
+234.953  000.081  000.081: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/balloons.vim
+235.225  000.242  000.242: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/checker.vim
+235.378  000.113  000.113: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/cursor.vim
+235.499  000.090  000.090: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/highlighting.vim
+235.819  000.291  000.291: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/loclist.vim
+235.944  000.094  000.094: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/modemap.vim
+236.089  000.080  000.080: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/notifiers.vim
+236.597  000.475  000.475: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/registry.vim
+236.762  000.116  000.116: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic/signs.vim
+238.165  084.430  082.184: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/plugin/syntastic.vim
+239.848  001.478  001.478: sourcing /home/dsemenov/.config/nvim/plugged/omnisharp-vim/plugin/OmniSharp.vim
+240.789  000.389  000.389: sourcing /usr/share/nvim/runtime/plugin/gzip.vim
+240.859  000.024  000.024: sourcing /usr/share/nvim/runtime/plugin/health.vim
+241.074  000.181  000.181: sourcing /usr/share/nvim/runtime/plugin/man.vim
+242.294  000.433  000.433: sourcing /usr/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim
+242.399  001.289  000.856: sourcing /usr/share/nvim/runtime/plugin/matchit.vim
+242.657  000.221  000.221: sourcing /usr/share/nvim/runtime/plugin/matchparen.vim
+243.626  000.932  000.932: sourcing /usr/share/nvim/runtime/plugin/netrwPlugin.vim
+243.956  000.245  000.245: sourcing /usr/share/nvim/runtime/plugin/rplugin.vim
+244.249  000.242  000.242: sourcing /usr/share/nvim/runtime/plugin/shada.vim
+244.353  000.048  000.048: sourcing /usr/share/nvim/runtime/plugin/spellfile.vim
+244.687  000.289  000.289: sourcing /usr/share/nvim/runtime/plugin/tarPlugin.vim
+244.871  000.134  000.134: sourcing /usr/share/nvim/runtime/plugin/tohtml.vim
+244.949  000.035  000.035: sourcing /usr/share/nvim/runtime/plugin/tutor.vim
+245.332  000.345  000.345: sourcing /usr/share/nvim/runtime/plugin/zipPlugin.vim
+245.381  004.241: loading plugins
+245.561  000.180: loading packages
+245.749  000.188: loading after plugins
+245.776  000.027: inits 3
+249.466  003.689: reading ShaDa
+255.805  000.937  000.937: sourcing /home/dsemenov/.config/nvim/plugged/vim-hindent/ftplugin/haskell/hindent.vim
+256.969  000.599  000.599: sourcing /usr/share/nvim/runtime/ftplugin/haskell.vim
+258.090  000.480  000.480: sourcing /home/dsemenov/.config/nvim/plugged/haskell-vim/after/ftplugin/haskell.vim
+258.769  000.554  000.554: sourcing /home/dsemenov/.config/nvim/plugged/vim-polyglot/after/ftplugin/haskell.vim
+259.911  000.824  000.824: sourcing /home/dsemenov/.config/nvim/plugged/haskell-vim/indent/haskell.vim
+260.441  000.450  000.450: sourcing /home/dsemenov/.config/nvim/plugged/vim-polyglot/indent/haskell.vim
+262.311  001.343  001.343: sourcing /home/dsemenov/.config/nvim/plugged/haskell-vim/syntax/haskell.vim
+262.999  000.564  000.564: sourcing /home/dsemenov/.config/nvim/plugged/vim-polyglot/syntax/haskell.vim
+263.794  000.557  000.557: sourcing /usr/share/nvim/runtime/syntax/haskell.vim
+265.550  000.782  000.782: sourcing /home/dsemenov/.config/nvim/plugged/vim-polyglot/syntax/dhall.vim
+265.782  001.707  000.925: sourcing /home/dsemenov/.config/nvim/plugged/vim-polyglot/after/syntax/haskell.vim
+268.287  000.288  000.288: sourcing /home/dsemenov/.config/nvim/plugged/syntastic/autoload/syntastic/log.vim
+268.363  010.596: opening buffers
+268.967  000.183  000.183: sourcing /home/dsemenov/.config/nvim/plugged/vim-gitgutter/autoload/gitgutter.vim
+270.628  000.114  000.114: sourcing /home/dsemenov/.config/nvim/plugged/vim-gitgutter/autoload/gitgutter/async.vim
+270.881  000.108  000.108: sourcing /home/dsemenov/.config/nvim/plugged/vim-gitgutter/autoload/gitgutter/debug.vim
+287.376  008.379  008.379: sourcing /home/dsemenov/.config/nvim/plugged/vim-gitgutter/autoload/gitgutter/diff.vim
+291.014  001.068  001.068: sourcing /home/dsemenov/.config/nvim/plugged/lightline.vim/autoload/lightline.vim
+292.946  000.149  000.149: sourcing /home/dsemenov/.config/nvim/plugged/lightline.vim/autoload/lightline/tab.vim
+293.663  000.299  000.299: sourcing /home/dsemenov/.config/nvim/plugged/iceberg.vim/autoload/lightline/colorscheme/iceberg.vim
+304.253  025.590: BufEnter autocommands
+304.269  000.015: editing files in windows
+305.194  000.926: VimEnter autocommands
+305.205  000.010: UIEnter autocommands
+305.250  000.046: before starting main loop
+310.095  004.845: first screen update
+310.102  000.007: --- NVIM STARTED ---
