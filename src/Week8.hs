@@ -32,4 +32,5 @@ nextLevel e l =
               (GL l2 f2) = sum2
 
 maxFun :: Tree Employee -> GuestList
-maxFun = treeFold nextLevel
+maxFun es = max l1 l2 where 
+    (l1, l2) = treeFold nextLevel es
